@@ -28,6 +28,8 @@ Technologies
 * Bundle
 * UITableView
 * UIImageView
+* UIBarButtonItem
+* UIActivityViewController
 
 What I Learned
 
