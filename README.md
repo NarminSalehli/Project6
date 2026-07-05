@@ -50,3 +50,10 @@ While building this project, I practiced:
 <img width="1206" height="2622" alt="Simulator Screenshot - Iphone 16 - 2026-07-01 at 12 53 51" src="https://github.com/user-attachments/assets/9bd36e80-fe2c-48ad-8413-befed254d04b" />
 <img width="1206" height="2622" alt="Simulator Screenshot - Iphone 16 - 2026-07-01 at 12 53 57" src="https://github.com/user-attachments/assets/57bfeca0-8cf5-4e9f-8ad9-10f716777c40" />
 <img width="1206" height="2622" alt="Simulator Screenshot - Iphone 16 - 2026-07-01 at 12 54 15" src="https://github.com/user-attachments/assets/d9ef5a21-16b7-42a7-99c9-c72632f928a8" />
+
+<img width="1206" height="2622" alt="Simulator Screenshot - Iphone 16 - 2026-07-05 at 22 41 09" src="https://github.com/user-attachments/assets/7e9a8c7f-eb2d-4384-b64c-67e9171fb480" />
+
+<img width="1206" height="2622" alt="Simulator Screenshot - Iphone 16 - 2026-07-05 at 22 41 24" src="https://github.com/user-attachments/assets/98c6c51f-b8e3-4f1f-af7b-539ed0210c5b" />
+
+
+
